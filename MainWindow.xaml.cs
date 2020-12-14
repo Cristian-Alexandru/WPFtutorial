@@ -54,7 +54,7 @@ namespace WPFtutorial
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-          // ComboBox_SelectionChanged(this.ComboBox_SelectionChanged, null);
+          /// ComboBox_SelectionChanged(this.ComboBox_SelectionChanged, null);
 
         }
     }
